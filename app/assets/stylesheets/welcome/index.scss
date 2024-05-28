@@ -4,7 +4,8 @@
 
 /* Estilos personalizados para a barra de navegação */
 .navbar {
-  background-color: #c8daed;
+  background-color: #0c0d0d;
+  text-decoration: none;
 }
 
 .navbar-brand {
@@ -12,4 +13,10 @@
     align-items: center;
   }
 
-/* Outros estilos personalizados */
+  .navbar-brand a {
+    color: white; // Define a cor do texto como branco
+  }
+  
+  .navbar-brand a:hover {
+    color: white; // Mantém a cor do texto como branco quando o mouse está sobre o elemento
+  }
