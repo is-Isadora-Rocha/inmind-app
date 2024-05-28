@@ -1,24 +1,12 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# InMind
 
-Things you may want to cover:
+Um site minimalista que contém trechos aprendidos sobre psicanálise e autoconhecimento. 
 
-* Ruby version
+Uma tentativa de encontrar a mente e aprender sobre nossos pensamentos e traumas.
+E sempre revisitar o que foi aprendido e lembrar do seu propósito. 
 
-* System dependencies
 
-* Configuration
+### Desenvolvedora
+- [@isadora_rocha](https://github.com/is-Isadora-Rocha)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
