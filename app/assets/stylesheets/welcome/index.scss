@@ -3,44 +3,6 @@
 @import "bootstrap";
 @import "variaveis";
 
-/* Estilos personalizados para a barra de navegação */
-.sidebar {
-  height: 100vh;
-  width: 250px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  background-color: #343a40; /* Cor de fundo da barra lateral */
-  padding-top: 4.5rem; /* Altura da barra de navegação */
-}
-
-.navbar-brand {
-  padding: 1rem; /* Espaçamento interno da marca */
-  font-size: 1.25rem;
-  color: #fff; /* Cor do texto da marca */
-  text-align: center; /* Centraliza o texto */
-}
-
-.navbar-toggler {
-  border: none;
-  background-color: transparent;
-  color: #fff; /* Cor do ícone do botão de alternância */
-}
-
-.nav-link {
-  padding: 0.75rem 1rem; /* Espaçamento interno dos botões */
-  color: #fff; /* Cor do texto dos botões */
-}
-
-.nav-link.active {
-  font-weight: bold; /* Estilo do botão ativo */
-}
-
-/* Estiliza todos os botões dentro da barra lateral */
-.sidebar button {
-  margin-bottom: 5px; /* Espaçamento entre os botões */
-}
-
 
 /* bem vindos */
 body {

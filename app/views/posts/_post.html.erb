@@ -1,17 +1,12 @@
-<div id="<%= dom_id post %>">
-  <p>
-    <strong>Title:</strong>
-    <%= post.title %>
-  </p>
-
-  <p>
-    <strong>Description:</strong>
-    <%= post.description %>
-  </p>
-
-  <p>
-    <strong>Published at:</strong>
-    <%= post.published_at %>
-  </p>
-
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+    <div class="col">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title"><%= post.title %></h5>
+          <p class="card-text"><%= post.description %></p>
+          <p class="card-text"><strong>Published at:</strong> <%= post.published_at %></p>
+        </div>
+      </div>
+    </div>
 </div>
+
